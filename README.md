@@ -44,7 +44,8 @@ List the ready features here:
 ## Setup
 - Download Xcode
 - Run simulator
-- Enter in code
+- Enter in code (Hourglass file)
+- project.pbxproj (from terminal)
 
 
 
@@ -136,7 +137,7 @@ struct MainMenuView: View {
     }
 }
 
-Input: ForEach(MenuOption.allCases, id: \.self) { option in giving error
+Input: "ForEach(MenuOption.allCases, id: \.self) {" option is giving error
 Output: enum MenuOption: String, CaseIterable {
     case apps = "Apps"
     case limits = "Limits"
