@@ -33,9 +33,10 @@ This specific idea was undertaken due to personal experinces. As somebody who so
 
 ## Features
 List the ready features here:
-- Live simulator 
-- iphone suulation of prototype
-- Clear errors and occasional assists e.g. "fix"
+- Apps
+- Limits
+- Loops
+- Customisation
 
 
 
@@ -45,6 +46,7 @@ List the ready features here:
 - Download Xcode
 - Run simulator
 - Enter in code (Hourglass file)
+  Or
 - project.pbxproj (from terminal)
 
 
