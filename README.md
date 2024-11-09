@@ -66,7 +66,7 @@ Image Color Picker. (2024). RGB Color Picker Online. Image Color Picker. https:/
 IOS Academy. (2023, May 15). SwiftUI Masterclass: Build To Do List App [Video]. YouTube. https://www.youtube.com/watch?v=t_mypMqSXNw 
 Lee, W. (2022). SwiftUI For Dummies Cheat Sheet. Dummies. https://www.dummies.com/article/technology/programming-web-design/app-development/swiftui-for-dummies-cheat-sheet-272596/
 Matlock, W. (2024, September 6). Creating Advanced Dropdown Menus in SwiftUI. Medium. 
-https://medium.com/@wesleymatlock/creating-advanced-dropdown-menus-in-swiftui-74fd20cf9bab#:~:text=The%20simplest%20and%20most%20straightforward,basic%20dropdown%20without%20much%20customization. 
+https://medium.com/@wesleymatlock/creating-advanced-dropdown-menus-in-swiftui-74fd20cf9bab#:~:text=The%20simplest%20and%20most%20straightforward,basic%20dropdown%20without%20much%20customization. OpenAI. (2024). ChatGPT (October 2024 version). OpenAI. https://chat.openai.com/ 
 Simple Codes. (2022). SwiftUI-Cheat-Sheet [ cheat sheet]. Github. https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet?tab=readme-ov-file 
 
 
